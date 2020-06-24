@@ -50,6 +50,8 @@ INSTALLED_APPS = [
     "location",
     "vehicle",
     "wallet",
+    "chat",
+    "chat_user_profile",
 ]
 LOCAL_APPS = [
     "home",
