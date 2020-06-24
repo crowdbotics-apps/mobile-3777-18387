@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     "wallet",
     "chat",
     "chat_user_profile",
+    "event",
 ]
 LOCAL_APPS = [
     "home",
